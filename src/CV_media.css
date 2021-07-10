@@ -1,0 +1,12 @@
+/**** MEDIA *****/
+
+@media screen and (max-width: 567px) {
+   [class*="col-"]{
+    /*margin: 10px;*/
+        padding-top: 2px !Important;
+    padding-bottom: 2px !Important;
+    /*border-radius: 20px !Important;*/
+}
+    
+  }
+}

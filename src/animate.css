@@ -1,0 +1,4 @@
+.boots *{
+	transform-origin: center;
+	transform-box: fill-box
+}
